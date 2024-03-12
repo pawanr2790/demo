@@ -1,2 +1,2 @@
-# First leaarning repo
+# First learning repo
 Author pawan
